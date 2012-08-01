@@ -43,7 +43,7 @@ my $rep = $github->repos;
 =ReposTory Create
 my $rp = $rep->create({
     name => 'Hello-World',
-    description => 'This is your first repo',
+    description => 'This is your first repo', aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
     homepage => 'https://github.com'
 });
 =cut
